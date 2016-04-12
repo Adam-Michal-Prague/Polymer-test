@@ -1,2 +1,4 @@
-# Polymer-test
-testing Polymer 1.0
+x-test
+================
+
+See the [x-test documentation page](http://.../x-test) for more information.
